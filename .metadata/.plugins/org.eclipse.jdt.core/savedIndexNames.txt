@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+C:\Users\Tai\workspaces\school\ics141\.metadata\.plugins\org.eclipse.jdt.core
+2249643126.index
+3964403995.index
+3730945173.index
+3732946521.index
+4044481760.index

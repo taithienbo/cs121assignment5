@@ -1,0 +1,19 @@
+package src.edu.ics.uci.gutenbergIndexing;
+
+import java.io.FileFilter;
+
+public class GutenbergIndexer {
+
+
+
+	// Filter out the unnecessary folders
+	public static FileFilter getGuterbergFolderFilter()
+	{
+		FileFilter filter = new FileFilter()
+		{
+
+		}
+	}
+
+
+}

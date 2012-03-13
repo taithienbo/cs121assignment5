@@ -1,0 +1,5 @@
+package src.edu.ics.uci.gutenbergIndexing;
+
+public class GuterbergFolderFilter {
+
+}
